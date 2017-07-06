@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+.mb { margin-bottom: 10px !important;}
+.example-card { max-width: 99%; }
+.mat-card-title  {font-size: 25px !important;}
+.mat-card-header-text { margin-left: 0px !important;}
+.mat-card-content p { font-size: 20px;}

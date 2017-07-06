@@ -1,0 +1,7 @@
+<md-card>
+  <md-list>
+    <md-list-item *ngFor="let h of consolidated; let i= index">
+      <a [routerLink]="['details',i]" title="{{h.name}}">{{h.name}}</a>
+      </md-list-item>
+  </md-list>
+ </md-card>
